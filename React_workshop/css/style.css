@@ -1,0 +1,36 @@
+.red {
+  border: 2px solid #FF0000; }
+
+.yellow {
+  border: 2px solid #FFFF00; }
+
+.green {
+  border: 2px solid #00FF00; }
+
+.blue {
+  border: 2px solid #0000FF; }
+
+.turquoise {
+  border: 2px solid #40e0d0; }
+
+.main-container {
+  width: 300px;
+  height: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main-form {
+  padding: 20px 0;
+}
+
+table, td, tr, th {
+  border: 2px solid black;
+  padding: 5px 10px;
+  font-weight: 700;
+}
+
+td {
+  width: 200px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInN0eWxlLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBVUU7RUFDRSwwQkFUUSxFQVVUOztBQUZEO0VBQ0UsMEJBUlcsRUFTWjs7QUFGRDtFQUNFLDBCQVBVLEVBUVg7O0FBRkQ7RUFDRSwwQkFOUyxFQU9WOztBQUZEO0VBQ0UsMEJBTGEsRUFNZCIsImZpbGUiOiJzdHlsZS5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBDb2xvcnNcbiRyYWluYm93OiAoXG5yZWQ6ICNGRjAwMDAsXG55ZWxsb3c6ICNGRkZGMDAsXG5ncmVlbjogIzAwRkYwMCxcbmJsdWU6ICMwMDAwRkYsXG50dXJxdW9pc2U6IzQwZTBkMFxuKTtcblxuQGVhY2ggJG5hbWUsICRjb2xvciBpbiAkcmFpbmJvdyB7XG4gIC4jeyRuYW1lfXtcbiAgICBib3JkZXI6IDJweCBzb2xpZCAkY29sb3I7XG4gIH1cbn1cbiJdfQ== */

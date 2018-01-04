@@ -1,0 +1,14 @@
+// Colors
+$rainbow: (
+red: #FF0000,
+yellow: #FFFF00,
+green: #00FF00,
+blue: #0000FF,
+turquoise:#40e0d0
+);
+
+@each $name, $color in $rainbow {
+  .#{$name}{
+    border: 2px solid $color;
+  }
+}
